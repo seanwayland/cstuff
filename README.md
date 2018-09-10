@@ -1,0 +1,3 @@
+# cstuff
+
+basic C functions 
